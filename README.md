@@ -2,9 +2,9 @@
 
 ### Desenvolvido por:
 <br>
-#### [Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso): matheus.rangel.cardoso@gmail.com
+[Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso): matheus.rangel.cardoso@gmail.com
 <br>
-#### [Letícia Aranha](https://www.youtube.com/watch?v=dQw4w9WgXcQ): lsf.aranha@gmail.com
+[Letícia Aranha](https://www.youtube.com/watch?v=dQw4w9WgXcQ): lsf.aranha@gmail.com
 
 ---
 
