@@ -32,10 +32,12 @@ O projeto tem como objetivo produzir um modelo capaz de prever o diagnóstico de
 1.4) Realizar o	balanceamento	da base de dados
 <br>
 1.5)	Realizar a redução da dimensionalidade
+
 #### 2) Treinar modelos
 2.1)	Árvore de Decisão
 <br>
 2.2)	SVM
 <br>
 2.3)	Random Forest
+
 #### 3) Análise e escolha do melhor modelo
