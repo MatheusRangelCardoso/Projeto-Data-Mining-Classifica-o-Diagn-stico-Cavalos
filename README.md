@@ -5,8 +5,9 @@
 #### [Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso)
 #### [Letícia Aranha](https://github.com/let-aranha)
 
-Trabalho realizado na disciplina de data Mining do curso [BI MASTER](https://ica.puc-rio.ai/bi-master)
+---
 
+Trabalho realizado na disciplina de data Mining do curso [BI MASTER](https://ica.puc-rio.ai/bi-master)
 
 ---
 
