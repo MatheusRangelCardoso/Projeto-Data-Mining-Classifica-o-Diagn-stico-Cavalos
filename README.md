@@ -12,8 +12,6 @@ Trabalho realizado na disciplina de data Mining do curso [BI MASTER](https://ica
 ---
 
 ### Resumo
-<br>
-<br>
 #### 1.	Identificação do Problema:
 <br>
 O projeto tem como objetivo produzir um modelo capaz de prever o diagnóstico de cavalos em três classes distintas de saída: vivo, morto e eutanásia.
