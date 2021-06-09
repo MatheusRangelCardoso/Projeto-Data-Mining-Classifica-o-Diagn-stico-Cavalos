@@ -3,7 +3,7 @@
 ### Desenvolvido por:
 
 #### [Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso)
-#### [Letícia Aranha](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+#### [Letícia Aranha](https://github.com/let-aranha)
 
 Trabalho realizado na disciplina de data Mining do curso [BI MASTER](https://ica.puc-rio.ai/bi-master)
 
