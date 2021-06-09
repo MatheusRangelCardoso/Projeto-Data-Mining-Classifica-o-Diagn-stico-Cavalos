@@ -32,8 +32,6 @@ O projeto tem como objetivo produzir um modelo capaz de prever o diagnóstico de
 1.4) Realizar o	balanceamento	da base de dados
 <br>
 1.5)	Realizar a redução da dimensionalidade
-<br>
-<br>
 #### 2) Treinar modelos
 2.1)	Árvore de Decisão
 <br>
