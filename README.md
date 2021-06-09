@@ -1,16 +1,12 @@
 # Projeto de Datamining: Classificação do Diagnóstico de Cavalos
 
-### Desenvolvido por:
-<br>
-[Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso): matheus.rangel.cardoso@gmail.com
-<br>
-[Letícia Aranha](https://www.youtube.com/watch?v=dQw4w9WgXcQ): lsf.aranha@gmail.com
+# Desenvolvido por:
 
----
+#### [Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso)
+#### [Letícia Aranha](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Trabalho realizado na disciplina de data Mining do curso [BI MASTER](https://ica.puc-rio.ai/bi-master)
 
-- [Link para o código](https://github.com/MatheusRangelCardoso/tcc-bi-master-2019.1).
 
 ---
 
