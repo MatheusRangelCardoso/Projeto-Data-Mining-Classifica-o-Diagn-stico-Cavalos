@@ -21,8 +21,8 @@ O projeto tem como objetivo produzir um modelo capaz de prever o diagnóstico de
 <br>
 2.3) Arquivo em PDF detalhando o desenvolvimento do trabalho
 ### No PDF detalhando o trabalho será abordado:
+
 #### 1) Análise Exploratória e Pré-Processamento	
-<br>
 1.1)	Como lidar com valores nulos
 <br>
 1.2) Como lidar com outliers
